@@ -56,7 +56,7 @@ We are going to set up a simple git branching strategy.
    ![](media/image8.png)\
    You can use *<span class="underline">git show-branch</span>* command to view all branches at once. The branch you are currently working with is marked with ***\**** symbol.\
    ![](media/image9.png)
-
+I am here
 8. Now we will add some changes to README.md, with ***vim***, check status, stage changes with *<span class="underline">git add README.md</span>* command, commit changes, check the
    result (status) then checkout to ***git\_task*** branch (with *<span class="underline">git checkout git\_task</span>* command) and **merge** changes from ***git\_0*** branch
    with *<span class="underline">git merge git\_0 --no-ff</span>* command. Take some time to read about merging and **no-ff** option. <span class="underline">This is usually the
