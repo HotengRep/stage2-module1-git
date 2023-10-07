@@ -7,4 +7,6 @@ Added secondFile.txt to git_1
 Added secondFile.txt to git_1
 Added second3333
 Added second3333
+fafasdale.txt to git_1
+ded secondFile.txt to git_1
 Added secondFile.txt to git_1
